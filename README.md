@@ -1,0 +1,1 @@
+# Teaching Python in the summer of 2025
